@@ -17,6 +17,10 @@ Singly Linked List: In this type of linked list, every node stores the address o
 
 ![img.png](img.png)
 
+## Basic Operations
+
+![img_1.png](img_1.png)
+
 ### References
 
 [geeksforgeeks - Introduction to Linear Data Structures](https://www.geeksforgeeks.org/introduction-to-linear-data-structures/)
