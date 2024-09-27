@@ -23,4 +23,4 @@ Singly Linked List: In this type of linked list, every node stores the address o
 
 ### References
 
-[geeksforgeeks - Introduction to Linear Data Structures](https://www.geeksforgeeks.org/c-program-to-implement-singly-linked-list/)
+[geeksforgeeks - Linked List in C](https://www.geeksforgeeks.org/c-program-to-implement-singly-linked-list/)
